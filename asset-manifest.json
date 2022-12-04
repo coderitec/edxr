@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edxr/static/css/main.073c9b0a.css",
+    "main.js": "/edxr/static/js/main.116c4ce0.js",
+    "static/js/787.c680fbfd.chunk.js": "/edxr/static/js/787.c680fbfd.chunk.js",
+    "index.html": "/edxr/index.html",
+    "main.073c9b0a.css.map": "/edxr/static/css/main.073c9b0a.css.map",
+    "main.116c4ce0.js.map": "/edxr/static/js/main.116c4ce0.js.map",
+    "787.c680fbfd.chunk.js.map": "/edxr/static/js/787.c680fbfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.116c4ce0.js"
+  ]
+}
